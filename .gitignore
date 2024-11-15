@@ -1,0 +1,45 @@
+# Fichiers d'environnement
+.env
+.env.*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*.swp
+*.swo
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.iml
+
+# Logs, artefacts de débogage, et builds
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun-debug.log*
+*.log
+dist/
+build/
+coverage/
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Caches
+.pnpm-debug.log*
+.bun/
+
+prisma/dev.db
