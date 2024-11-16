@@ -6,7 +6,7 @@ This project is a practical example accompanying a blog post from [timoner.com](
 
 ## Context
 
-This application serves as a concrete example for the article ["Next.js 15: TypeScript Forms with Prisma and Clean Architecture"](https://timoner.com/en/nextjs/formulaire-nextjs-zod-archi-hexagonale). It demonstrates how to create a professional form system with:
+This application serves as a concrete example for the article ["Next.js 15: TypeScript Forms with Prisma and Clean Architecture"](https://timoner.com/en/nextjs/nextjs-form-zod-hexagonal-architecture). It demonstrates how to create a professional form system with:
 
 - Next.js 15
 - Type-safe validation with Zod
@@ -31,4 +31,4 @@ npx prisma db push
 npm run dev
 ```
 
-For more details about the implementation and concepts used, check out the [full article on timoner.com](https://timoner.com/en/nextjs/formulaire-nextjs-zod-archi-hexagonale).
+For more details about the implementation and concepts used, check out the [full article on timoner.com](https://timoner.com/en/nextjs/nextjs-form-zod-hexagonal-architecture).
